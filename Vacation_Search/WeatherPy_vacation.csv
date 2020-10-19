@@ -1,0 +1,92 @@
+City,Country,Max Temp,Weather Description,Lat,Lng,Hotel Name
+Alice Springs,AU,75.0,clear sky,-23.7,133.88,Desert Palms Alice Springs
+Puerto Ayora,EC,68.65,broken clouds,-0.74,-90.35,Finch Bay Galapagos Hotel
+Kushtagi,IN,70.72,heavy intensity rain,15.77,76.2,ಶ್ರೀ ರಾಮ್ ಫಿಶ್ ಆಕ್ವ್ ರಿಯಂ ಕುಷ್ಟಗಿ
+Nago,JP,73.4,clear sky,26.59,127.98,Hotel Yugaf Inn Okinawa
+Gat,IL,73.0,few clouds,31.61,34.76,OlusHome
+Rikitea,PF,73.44,clear sky,-23.12,-134.97,Pension Maro'i
+Ponta Do Sol,PT,69.8,few clouds,32.67,-17.1,Hotel do Campo
+Eureka,US,73.0,clear sky,40.8,-124.16,Eureka Inn Trademark By Wyndham
+Douglas,US,68.0,clear sky,41.3,-96.17,Hilton Garden Inn Omaha West
+Bernal,PE,71.35,few clouds,-5.45,-80.75,Plaza de Armas Bellavista de La Unión
+Tanushimaru,JP,68.0,few clouds,33.35,130.68,満天の庭
+Saint-Pierre,RE,73.4,broken clouds,-21.34,55.48,Lindsey Hôtel
+Saint-Philippe,RE,73.4,broken clouds,-21.36,55.77,"Chambres d'hôte ""La Trinité"""
+Ribeira Grande,PT,69.22,broken clouds,38.52,-28.7,Quinta da Meia Eira
+Fortuna,US,73.99,clear sky,40.6,-124.16,Super 8 by Wyndham Fortuna
+Mangan,IN,70.2,clear sky,27.52,88.53,Hotel Mout View
+Yulara,AU,69.8,clear sky,-25.24,130.99,Desert Gardens Hotel - Ayers Rock Resort
+Misratah,LY,70.32,clear sky,32.38,15.09,فندق الماسة
+Castro,BR,68.97,broken clouds,-24.79,-50.01,CHACARA BAILLY
+Nchelenge,ZM,71.8,broken clouds,-9.35,28.73,Mweru Water Transport
+Tateyama,JP,70.0,few clouds,34.98,139.87,Tateyama Seaside Hotel
+Tezu,IN,74.23,clear sky,27.92,96.17,Circuit House
+Caravelas,BR,74.79,broken clouds,-17.71,-39.25,Pousada dos Navegantes
+Nanning,CN,69.8,light rain,22.82,108.32,Nanning Travelling With Hostel
+Pakxan,LA,71.94,overcast clouds,18.38,103.66,Kong Kham Pheng Guesthouse
+Charters Towers,AU,72.39,scattered clouds,-20.1,146.27,Cattleman's Rest Motor Inn
+Los Llanos De Aridane,ES,73.4,clear sky,28.66,-17.92,Valle Aridane
+Lobito,AO,73.49,scattered clouds,-12.35,13.55,Casa Rosa Hotel Residence
+Ponta Delgada,PT,68.0,scattered clouds,37.73,-25.67,Vila Nova Hotel
+Vila Franca Do Campo,PT,68.0,scattered clouds,37.72,-25.43,Pestana Bahia Praia
+Inongo,CD,72.05,light rain,-1.95,18.27,Hotel Du Lac
+Asheboro,US,71.6,clear sky,35.71,-79.81,Hampton Inn Asheboro
+Vao,NC,73.51,clear sky,-22.67,167.48,Hotel Kou-Bugny
+Dubbo,AU,68.0,clear sky,-32.25,148.62,Comfort Inn Blue Lagoon
+Kang,BW,69.28,clear sky,-23.68,22.79,Kang Ultra Stop
+Emerald,AU,72.0,scattered clouds,-23.53,148.17,The Irish Village
+Nacala,MZ,74.59,clear sky,-14.54,40.67,Nacala Plaza Business Design Hotel
+Arraial Do Cabo,BR,73.22,clear sky,-22.97,-42.03,Pousada Porto Praia
+Grand Gaube,MU,73.99,clear sky,-20.01,57.66,Veranda Paul et Virginie Hotel & Spa
+Nizwa,OM,70.23,clear sky,22.93,57.53,Orient Apartments
+Monte Santo,BR,74.34,scattered clouds,-10.44,-39.33,Pousada Pingo D'Água
+Sawtell,AU,69.8,clear sky,-30.38,153.1,Boambee Waters Caravan Park
+Ambilobe,MG,73.26,scattered clouds,-13.2,49.05,Hôtel & Restaurant DIANA Ambilobe
+Rawson,AR,70.68,broken clouds,-43.3,-65.1,Hotel Punta León
+Valle De Juarez,MX,69.49,light rain,19.93,-102.93,GRANJA HÉCTOR SILVA
+Mareeba,AU,75.0,broken clouds,-17.0,145.43,Trinity Plains Tourist Park
+Darnah,LY,70.66,clear sky,32.77,22.64,زاوية الرفاعي
+Katsuura,JP,68.0,broken clouds,35.13,140.3,Katsuura Hotel Mikazuki
+Linhai,CN,69.01,overcast clouds,28.85,121.12,Linhai S&N International Hotel
+Luangwa,ZM,74.39,clear sky,-15.62,30.42,Gerasimos Safari Lodge
+Airai,TL,69.03,clear sky,-8.93,125.41,Juvinal Martin
+Ogbomosho,NG,72.91,overcast clouds,8.13,4.25,Living Soul Garden Hotel
+Boundiali,CI,72.61,clear sky,9.52,-6.49,Hotel Paysan Boundiali
+Port Macquarie,AU,72.0,clear sky,-31.43,152.92,Rydges Port Macquarie
+Maceio,BR,73.4,clear sky,-9.67,-35.74,Mercure Maceio Pajucara Hotel
+Zambezi,ZM,68.43,overcast clouds,-13.54,23.1,Royal Kutachika Lodge
+Lexington Park,US,71.6,few clouds,38.27,-76.45,TownePlace Suites by Marriott Lexington Park Patuxent River Naval Air Station
+Champasak,LA,71.74,overcast clouds,14.75,106.0,Kiat Ngong Wetland BUNGALOW
+Mpraeso,GH,70.47,moderate rain,6.59,-0.73,JAYS Lodge
+Kon Tum,VN,68.32,overcast clouds,14.35,108.0,Hoa đà spa- homestay
+Sao Joao Da Barra,BR,73.8,broken clouds,-21.64,-41.05,Pousada Porto De Canoas
+Tecpan,GT,68.0,light rain,14.76,-90.99,San Ricardo Restaurante y Hotel
+Utete,TZ,73.98,clear sky,-7.99,38.76,River View Lodge
+Baghdad,IQ,71.6,clear sky,33.34,44.4,Baghdad Hotel
+Nouadhibou,MR,73.4,clear sky,20.93,-17.03,El Medina
+Sabha,LY,72.09,scattered clouds,27.04,14.43,محطة ام الارانب -سبها مواصلات
+Barinas,VE,73.87,broken clouds,8.62,-70.21,Hotel Suites Mastranto
+Saint-Leu,RE,73.4,broken clouds,-21.15,55.28,La Caz Oceane
+Sambava,MG,71.96,clear sky,-14.27,50.17,Melrose
+Prachuap Khiri Khan,TH,71.73,moderate rain,12.22,99.75,สมบัติยาย
+Altamont,US,68.0,broken clouds,42.21,-121.74,Microtel Inn & Suites by Wyndham Klamath Falls
+Jiazi,CN,74.73,overcast clouds,22.88,116.07,Hotel Jin Hao
+Nosy Varika,MG,72.01,clear sky,-20.58,48.53,Hotel Volazara
+Hope,US,73.99,clear sky,33.67,-93.59,Best Western Hope
+Riyadh,SA,68.0,clear sky,24.69,46.72,InterContinental Riyadh
+Mercedes,AR,69.01,clear sky,-34.65,-59.43,Posada del Inti Centro
+Ballina,AU,73.99,few clouds,-28.87,153.57,Ramada Hotel & Suites by Wyndham Ballina Byron
+Lincoln,US,71.01,clear sky,40.8,-96.67,Courtyard by Marriott Lincoln Downtown/Haymarket
+Antalaha,MG,69.78,clear sky,-14.9,50.28,Hotel Vitasoa
+Nohar,IN,74.88,few clouds,29.18,74.77,Hotel Eva Inn
+Ribeira Brava,PT,69.8,few clouds,32.65,-17.07,Hotel do Campo
+Lagoa,PT,68.67,broken clouds,39.05,-27.98,Casa Das Faias
+Hickory,US,73.4,clear sky,35.73,-81.34,Crowne Plaza Hickory
+Turayf,SA,69.8,clear sky,31.67,38.66,Swiss Spirit Hotel & Suites Turaif
+Iraucuba,BR,74.84,broken clouds,-3.75,-39.78,Hotel Terra da Amizade
+Guadalupe Y Calvo,MX,68.02,overcast clouds,26.1,-106.97,Hotel Pizarro
+Casper,US,70.0,clear sky,42.87,-106.31,Ramkota Hotel
+Ambanja,MG,74.88,light rain,-13.68,48.45,Hotel Marrakech
+Nkhata Bay,MW,73.92,light rain,-11.61,34.29,Mayoka Village
+Inhambane,MZ,68.47,clear sky,-23.86,35.38,Oceano
+Port Hedland,AU,73.4,clear sky,-20.32,118.57,The Esplanade Hotel
