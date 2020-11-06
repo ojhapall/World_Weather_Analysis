@@ -1,1 +1,3 @@
 # World_Weather_Analysis
+
+The purpose of this respository is to use Google Map APIs to create a travel itenary. First, we asked what temperature range somoene would like to vacation in and showed that data on a map. This informed the person about which city, country they may want to go to and then provided them with the max temp, humidity, cloudiness, wind speed and the current description of the weather.  Then using that data, we determined what hotels were nearby to the cities that fit the temperature conditions set in the first deliverable. Finally, we picked four cities the customer may want to visit and provided them with a start to end route by car.
